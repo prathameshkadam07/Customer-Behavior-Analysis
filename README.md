@@ -54,7 +54,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 👨‍💻 About the Author
 Hey, I’m Prathamesh Kadam, a Data Analyst.
 
-💼 LinkedIn: [Prathamesh Kadam](www.linkedin.com/in/prathamesh-kadam-4a5658301)
+💼 LinkedIn: [Prathamesh Kadam](https://www.linkedin.com/in/prathamesh-kadam-4a5658301/)
 - Let’s connect professionally and grow your data career
 
 
