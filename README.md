@@ -1,76 +1,61 @@
-# Customer Shopping Behavior Analysis
+# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-## Overview
+## 📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, product performance, and revenue trends. The analysis was performed using Python, SQL, and Power BI to transform raw transactional data into actionable business insights.
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
-## Dataset
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
-The dataset contains customer demographics, purchase details, subscription status, product information, review ratings, and shopping behavior metrics.
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-**Key Features:**
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-* Customer Age, Gender, Location
-* Product Category and Item Purchased
-* Purchase Amount
-* Subscription Status
-* Review Ratings
-* Shipping Type
-* Discount Information
+![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
-## Tools & Technologies
+## 🛠️ How to Use This Project
 
-* **Python** (Pandas, NumPy) – Data Cleaning & EDA
-* **PostgreSQL / MySQL / SQL Server** – Data Analysis
-* **Power BI** – Dashboard Development
-* **Gamma** – Presentation Creation
-* **GitHub** – Project Documentation
+1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
-## Project Workflow
+    This file contains:
 
-### 1. Data Loading & Cleaning
+      - Data Import
 
-* Imported dataset using Python.
-* Handled missing values and standardized data.
-* Performed feature engineering and data validation.
+      - Data exploration
 
-### 2. Exploratory Data Analysis (EDA)
+      - Data cleaning
 
-* Analyzed customer demographics.
-* Identified spending patterns and trends.
-* Explored product and subscription behavior.
+      - Connection to SQL Database
+  
+3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
-### 3. SQL Analysis
+      - Create a database in SQL
 
-* Revenue and sales analysis.
-* Customer segmentation.
-* Product performance evaluation.
-* Subscription and discount impact analysis.
+      - Run Python code to load data into SQL database
+  
+      - Open **customer_behavior_sql_queries.sql**
+  
+      - Answer Business Questions using SQL Queries 
+      
+4. **Connect the SQL Database to Power BI**
 
-### 4. Power BI Dashboard
+      - Open **customer_behavior_dashboard.pbix**
+   
+      - Create interactive dashboard in Power BI
+  
+6. **Create Project Report and Presentation**
 
-Created an interactive dashboard featuring:
+      - Create project report
+   
+      - Build presentation deck using Gamma AI
 
-* Revenue Analysis
-* Customer Insights
-* Product Performance
-* Subscription Trends
-* Category-wise Sales
 
-### 5. Reporting & Presentation
+## 👨‍💻 About the Author
+Hey, I’m Prathamesh Kadam, a Data Analyst.
 
-* Prepared a detailed project report.
-* Created a professional presentation using Gamma.
+💼 LinkedIn: [Prathamesh Kadam](www.linkedin.com/in/prathamesh-kadam-4a5658301)
+- Let’s connect professionally and grow your data career
 
-## Results
 
-The analysis provided valuable insights into customer behavior, high-performing products, revenue drivers, and opportunities for business growth.
-
-## How to Run
-
-1. Load the dataset in Python.
-2. Perform data cleaning and EDA.
-3. Import cleaned data into PostgreSQL/MySQL/SQL Server.
-4. Execute SQL queries for business analysis.
-5. Connect Power BI to the database and build visualizations.
-6. Review the report and presentation for key findings.
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
